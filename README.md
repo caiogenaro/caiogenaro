@@ -4,4 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiogenaro&layout=compact&hide=ShaderLab,HLSL&exclude_repo=stop-multiplayer-unity,checkagem-script)](https://githhub.com/anuraghazra/github-readme-stats)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiogenaro&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiogenaro&theme=midnight_purple)
